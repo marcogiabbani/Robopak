@@ -1,0 +1,29 @@
+.container {
+    margin: auto;
+    width: 80%;
+    color: black;
+    border: solid 4px black;
+    max-width: 1280px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    gap: 2em;
+}
+
+.hero__img {
+    width: 100%;
+
+}
+
+.log-in {
+    border: solid 5px black;
+    width: 100%;
+
+}
